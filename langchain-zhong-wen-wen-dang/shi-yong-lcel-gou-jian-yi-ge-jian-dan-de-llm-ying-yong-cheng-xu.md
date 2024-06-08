@@ -164,7 +164,7 @@ result = prompt_template.invoke({"language": "italian", "text": "hi"})
 result
 ```
 
-<pre><code><strong># ChatPromptValue(messages=[SystemMessage(content='将以下内容翻译成italian:'), HumanMessage(content='hi')])
+<pre><code><strong>ChatPromptValue(messages=[SystemMessage(content='将以下内容翻译成italian:'), HumanMessage(content='hi')])
 </strong></code></pre>
 
 我们可以看到它返回一个由两条消息组成的ChatPromptValue。如果我们想直接访问消息，我们会这样做：
