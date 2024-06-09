@@ -32,7 +32,7 @@ layout:
 ### 使用外部知识
 
 * [gou-jian-jian-suo-zeng-qiang-sheng-cheng-rag-ying-yong-cheng-xu.md](langchain-zhong-wen-wen-dang/gou-jian-jian-suo-zeng-qiang-sheng-cheng-rag-ying-yong-cheng-xu.md "mention")
-* 构建一个对话式RAG应用程序
+* [dui-hua-shi-rag.md](langchain-zhong-wen-wen-dang/dui-hua-shi-rag.md "mention")
 * 在SQL数据上构建一个问答系统
 * 构建一个查询分析系统
 * 构建一个本地的RAG应用程序

@@ -5,3 +5,4 @@
   * [构建聊天机器人](langchain-zhong-wen-wen-dang/gou-jian-liao-tian-ji-qi-ren.md)
   * [构建智能体](langchain-zhong-wen-wen-dang/gou-jian-zhi-neng-ti.md)
   * [构建检索增强生成（RAG）应用程序](langchain-zhong-wen-wen-dang/gou-jian-jian-suo-zeng-qiang-sheng-cheng-rag-ying-yong-cheng-xu.md)
+  * [对话式RAG](langchain-zhong-wen-wen-dang/dui-hua-shi-rag.md)
