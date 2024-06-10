@@ -26,7 +26,7 @@ layout:
 
 * &#x20;[shi-yong-lcel-gou-jian-yi-ge-jian-dan-de-llm-ying-yong-cheng-xu.md](langchain-zhong-wen-wen-dang/shi-yong-lcel-gou-jian-yi-ge-jian-dan-de-llm-ying-yong-cheng-xu.md "mention")
 * &#x20;[gou-jian-liao-tian-ji-qi-ren.md](langchain-zhong-wen-wen-dang/gou-jian-liao-tian-ji-qi-ren.md "mention")
-* 构建向量存储和检索器
+* [xiang-liang-chu-cun-he-jian-suo.md](langchain-zhong-wen-wen-dang/xiang-liang-chu-cun-he-jian-suo.md "mention")
 * [gou-jian-zhi-neng-ti.md](langchain-zhong-wen-wen-dang/gou-jian-zhi-neng-ti.md "mention")
 
 ### 使用外部知识
