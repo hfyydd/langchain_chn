@@ -7,3 +7,4 @@
   * [构建智能体](langchain-zhong-wen-wen-dang/gou-jian-zhi-neng-ti.md)
   * [构建检索增强生成（RAG）应用程序](langchain-zhong-wen-wen-dang/gou-jian-jian-suo-zeng-qiang-sheng-cheng-rag-ying-yong-cheng-xu.md)
   * [对话式RAG](langchain-zhong-wen-wen-dang/dui-hua-shi-rag.md)
+  * [建立一个基于SQL数据的问答系统](langchain-zhong-wen-wen-dang/jian-li-yi-ge-ji-yu-sql-shu-ju-de-wen-da-xi-tong.md)

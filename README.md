@@ -33,7 +33,7 @@ layout:
 
 * [gou-jian-jian-suo-zeng-qiang-sheng-cheng-rag-ying-yong-cheng-xu.md](langchain-zhong-wen-wen-dang/gou-jian-jian-suo-zeng-qiang-sheng-cheng-rag-ying-yong-cheng-xu.md "mention")
 * [dui-hua-shi-rag.md](langchain-zhong-wen-wen-dang/dui-hua-shi-rag.md "mention")
-* 在SQL数据上构建一个问答系统
+* [jian-li-yi-ge-ji-yu-sql-shu-ju-de-wen-da-xi-tong.md](langchain-zhong-wen-wen-dang/jian-li-yi-ge-ji-yu-sql-shu-ju-de-wen-da-xi-tong.md "mention")
 * 构建一个查询分析系统
 * 构建一个本地的RAG应用程序
 * 在图数据库上构建一个问答应用程序
