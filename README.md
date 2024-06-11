@@ -45,3 +45,11 @@ layout:
 * 生成合成数据
 * 将文本分类为标签
 * 总结文本
+
+### LangGraph <a href="#langgraph" id="langgraph"></a>
+
+LangGraph是LangChain的扩展，旨在通过将步骤建模为图中的边和节点，使用LLM构建健壮且有状态的多参与者应用程序。
+
+### LangSmith <a href="#langsmith" id="langsmith"></a>
+
+LangSmith允许您密切跟踪、监控和评估您的LLM应用程序。它与LangChain无缝集成，您可以使用它在构建时检查和调试链的各个步骤。
