@@ -34,8 +34,8 @@ layout:
 * [gou-jian-jian-suo-zeng-qiang-sheng-cheng-rag-ying-yong-cheng-xu.md](langchain-zhong-wen-wen-dang/gou-jian-jian-suo-zeng-qiang-sheng-cheng-rag-ying-yong-cheng-xu.md "mention")
 * [dui-hua-shi-rag.md](langchain-zhong-wen-wen-dang/dui-hua-shi-rag.md "mention")
 * [jian-li-yi-ge-ji-yu-sql-shu-ju-de-wen-da-xi-tong.md](langchain-zhong-wen-wen-dang/jian-li-yi-ge-ji-yu-sql-shu-ju-de-wen-da-xi-tong.md "mention")
-* 构建一个查询分析系统
-* 构建一个本地的RAG应用程序
+* [gou-jian-cha-xun-fen-xi-xi-tong.md](langchain-zhong-wen-wen-dang/gou-jian-cha-xun-fen-xi-xi-tong.md "mention")
+* [gou-jian-ben-di-rag-ying-yong-cheng-xu.md](langchain-zhong-wen-wen-dang/gou-jian-ben-di-rag-ying-yong-cheng-xu.md "mention")
 * 在图数据库上构建一个问答应用程序
 * 构建一个PDF摄取和问答系统
 
