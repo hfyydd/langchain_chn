@@ -36,8 +36,8 @@ layout:
 * [jian-li-yi-ge-ji-yu-sql-shu-ju-de-wen-da-xi-tong.md](langchain-zhong-wen-wen-dang/jian-li-yi-ge-ji-yu-sql-shu-ju-de-wen-da-xi-tong.md "mention")
 * [gou-jian-cha-xun-fen-xi-xi-tong.md](langchain-zhong-wen-wen-dang/gou-jian-cha-xun-fen-xi-xi-tong.md "mention")
 * [gou-jian-ben-di-rag-ying-yong-cheng-xu.md](langchain-zhong-wen-wen-dang/gou-jian-ben-di-rag-ying-yong-cheng-xu.md "mention")
-* 在图数据库上构建一个问答应用程序
-* 构建一个PDF摄取和问答系统
+* [zai-tu-xing-shu-ju-ku-shang-gou-jian-wen-da-ying-yong-cheng-xu.md](langchain-zhong-wen-wen-dang/zai-tu-xing-shu-ju-ku-shang-gou-jian-wen-da-ying-yong-cheng-xu.md "mention")
+* [gou-jian-pdf-she-qu-he-wen-da-xi-tong.md](langchain-zhong-wen-wen-dang/gou-jian-pdf-she-qu-he-wen-da-xi-tong.md "mention")
 
 ### 专门任务
 
@@ -49,6 +49,16 @@ layout:
 ### LangGraph <a href="#langgraph" id="langgraph"></a>
 
 LangGraph是LangChain的扩展，旨在通过将步骤建模为图中的边和节点，使用LLM构建健壮且有状态的多参与者应用程序。
+
+* [langgraph-jian-jie.md](langgraph-zhong-wen-wen-dang/langgraph-jian-jie.md "mention")
+* [di-1-bu-fen-gou-jian-ji-ben-liao-tian-ji-qi-ren.md](langgraph-zhong-wen-wen-dang/di-1-bu-fen-gou-jian-ji-ben-liao-tian-ji-qi-ren.md "mention")
+* [di-2-bu-fen-shi-yong-gong-ju-zeng-qiang-liao-tian-ji-qi-ren.md](langgraph-zhong-wen-wen-dang/di-2-bu-fen-shi-yong-gong-ju-zeng-qiang-liao-tian-ji-qi-ren.md "mention")
+* [di-3-bu-fen-xiang-liao-tian-ji-qi-ren-tian-jia-nei-cun.md](langgraph-zhong-wen-wen-dang/di-3-bu-fen-xiang-liao-tian-ji-qi-ren-tian-jia-nei-cun.md "mention")
+* [di-4-bu-fen-ren-gong-jie-ru.md](langgraph-zhong-wen-wen-dang/di-4-bu-fen-ren-gong-jie-ru.md "mention")
+* [di-5-bu-fen-shou-dong-geng-xin-zhuang-tai.md](langgraph-zhong-wen-wen-dang/di-5-bu-fen-shou-dong-geng-xin-zhuang-tai.md "mention")
+* [di-6-bu-fen-zi-ding-yi-zhuang-tai.md](langgraph-zhong-wen-wen-dang/di-6-bu-fen-zi-ding-yi-zhuang-tai.md "mention")
+* [di-7-bu-fen-shi-jian-lv-hang.md](langgraph-zhong-wen-wen-dang/di-7-bu-fen-shi-jian-lv-hang.md "mention")
+* [jie-lun.md](langgraph-zhong-wen-wen-dang/jie-lun.md "mention")
 
 ### LangSmith <a href="#langsmith" id="langsmith"></a>
 
