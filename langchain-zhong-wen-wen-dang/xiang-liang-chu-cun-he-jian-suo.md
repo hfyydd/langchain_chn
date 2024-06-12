@@ -244,7 +244,7 @@ VectorStoreRetriever 支持“相似性”（默认）、“mmr”（最大边�
 
 检索器可以很容易地合并到更复杂的应用程序中，例如检索增强生成 （RAG） 应用程序，它将给定的问题与检索到的上下文组合成 LLM 的提示。下面我们展示一个小例子。
 
-{% code title="OpenAI   " fullWidth="false" %}
+{% code title="OpenAI" fullWidth="false" %}
 ```
 pip install -qU langchain-openai
 ```
