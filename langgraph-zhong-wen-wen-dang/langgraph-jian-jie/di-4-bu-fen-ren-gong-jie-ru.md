@@ -76,11 +76,13 @@ for event in events:
         event["messages"][-1].pretty_print()
 ```
 
-\================================ Human Message =================================
-
+{% code fullWidth="false" %}
+```
+================================ Human Message =================================
 I'm learning LangGraph. Could you do some research on it for me? ================================== Ai Message ==================================
-
-\[{'text': "Okay, let's do some research on LangGraph:", 'type': 'text'}, {'id': 'toolu\_01Be7aRgMEv9cg6ezaFjiCry', 'input': {'query': 'LangGraph'}, 'name': 'tavily\_search\_results\_json', 'type': 'tool\_use'}] Tool Calls: tavily\_search\_results\_json (toolu\_01Be7aRgMEv9cg6ezaFjiCry) Call ID: toolu\_01Be7aRgMEv9cg6ezaFjiCry Args: query: LangGraph
+[{'text': "Okay, let's do some research on LangGraph:", 'type': 'text'}, {'id': 'toolu_01Be7aRgMEv9cg6ezaFjiCry', 'input': {'query': 'LangGraph'}, 'name': 'tavily_search_results_json', 'type': 'tool_use'}] Tool Calls: tavily_search_results_json (toolu_01Be7aRgMEv9cg6ezaFjiCry) Call ID: toolu_01Be7aRgMEv9cg6ezaFjiCry Args: query: LangGraph
+```
+{% endcode %}
 
 让我们检查图形状态以确认它有效。
 
