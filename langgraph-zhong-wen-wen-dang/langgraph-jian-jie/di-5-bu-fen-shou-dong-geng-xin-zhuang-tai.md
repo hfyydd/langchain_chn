@@ -151,7 +151,7 @@ graph.update_state(
   'thread_ts': '2024-05-06T22:27:57.350721+00:00'}}
 ```
 
-在提供的链接上查看此更新调用的LangSmith跟踪。请注意，跟踪图继续进入tools\_condition边缘。我们刚刚告诉图处理更新as\_node="聊天机器人"。如果我们按照下图从聊天机器人节点开始，我们自然会在tools\_condition边缘结束，然后\_\_end\_\_，因为我们更新的消息缺少工具调用。
+在提供的链接上查看此更新调用的LangSmith跟踪。请注意，跟踪图继续进入tools\_condition边缘。我们刚刚告诉图处理更新as\_node="chatbot"。如果我们按照下图从chatbot节点开始，我们自然会在tools\_condition边缘结束，然后\_\_end\_\_，因为我们更新的消息缺少工具调用。
 
 ```python
 from IPython.display import Image, display
@@ -249,9 +249,6 @@ Message ID run-59283969-1076-45fe-bee8-ebfccab163c3-0
 
 
 Tool calls
-```
-
-```
 [{'name': 'tavily_search_results_json',
   'args': {'query': 'LangGraph human-in-the-loop workflow'},
   'id': 'toolu_013MvjoDHnv476ZGzyPFZhrR'}]
@@ -270,17 +267,16 @@ for event in events:
         event["messages"][-1].pretty_print()
 ```
 
-\================================= Tool Message ================================= Name: tavily\_search\_results\_json
-
-\[{"url": "https://langchain-ai.github.io/langgraph/how-tos/human-in-the-loop/", "content": "Human-in-the-loop\u00b6 When creating LangGraph agents, it is often nice to add a human in the loop component. This can be helpful when giving them access to tools. ... from langgraph.graph import MessageGraph, END # Define a new graph workflow = MessageGraph # Define the two nodes we will cycle between workflow. add\_node ("agent", call\_model) ..."}, {"url": "https://langchain-ai.github.io/langgraph/how-tos/chat\_agent\_executor\_with\_function\_calling/human-in-the-loop/", "content": "Human-in-the-loop. In this example we will build a ReAct Agent that has a human in the loop. We will use the human to approve specific actions. This examples builds off the base chat executor. It is highly recommended you learn about that executor before going through this notebook. You can find documentation for that example here."}] ================================== Ai Message ==================================
-
+```
+================================= Tool Message ================================= Name: tavily_search_results_json
+[{"url": "https://langchain-ai.github.io/langgraph/how-tos/human-in-the-loop/", "content": "Human-in-the-loop\u00b6 When creating LangGraph agents, it is often nice to add a human in the loop component. This can be helpful when giving them access to tools. ... from langgraph.graph import MessageGraph, END # Define a new graph workflow = MessageGraph # Define the two nodes we will cycle between workflow. add_node ("agent", call_model) ..."}, {"url": "https://langchain-ai.github.io/langgraph/how-tos/chat_agent_executor_with_function_calling/human-in-the-loop/", "content": "Human-in-the-loop. In this example we will build a ReAct Agent that has a human in the loop. We will use the human to approve specific actions. This examples builds off the base chat executor. It is highly recommended you learn about that executor before going through this notebook. You can find documentation for that example here."}] 
+================================== Ai Message ==================================
 Based on the search results, LangGraph appears to be a framework for building AI agents that can interact with humans in a conversational way. The key points I gathered are:
-
-* LangGraph allows for "human-in-the-loop" workflows, where a human can be involved in approving or reviewing actions taken by the AI agent.
-* This can be useful for giving the AI agent access to various tools and capabilities, with the human able to provide oversight and guidance.
-* The framework includes components like "MessageGraph" for defining the conversational flow between the agent and human.
-
+LangGraph allows for "human-in-the-loop" workflows, where a human can be involved in approving or reviewing actions taken by the AI agent.
+This can be useful for giving the AI agent access to various tools and capabilities, with the human able to provide oversight and guidance.
+The framework includes components like "MessageGraph" for defining the conversational flow between the agent and human.
 Overall, LangGraph seems to be a way to create conversational AI agents that can leverage human input and guidance, rather than operating in a fully autonomous way. Let me know if you need any clarification or have additional questions!
+```
 
 查看跟踪以查看工具调用和稍后的LLM响应。请注意，现在图表使用我们更新的查询词查询搜索引擎-我们能够在此处手动覆盖LLM的搜索！
 
