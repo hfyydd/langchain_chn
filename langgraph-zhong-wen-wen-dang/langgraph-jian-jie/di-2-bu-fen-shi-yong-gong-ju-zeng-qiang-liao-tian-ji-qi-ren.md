@@ -165,7 +165,7 @@ except Exception:
     pass
 ```
 
-<figure><img src="../.gitbook/assets/下载 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/下载 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 现在我们可以在训练数据之外问机器人问题。
 

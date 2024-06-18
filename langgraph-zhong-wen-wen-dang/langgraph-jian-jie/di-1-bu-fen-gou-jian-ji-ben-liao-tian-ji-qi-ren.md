@@ -83,7 +83,7 @@ except Exception:
     pass
 ```
 
-<figure><img src="../.gitbook/assets/下载.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/下载.jpeg" alt=""><figcaption></figcaption></figure>
 
 现在让我们运行聊天机器人！
 

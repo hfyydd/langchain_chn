@@ -85,7 +85,7 @@ except Exception:
     pass
 ```
 
-<figure><img src="../.gitbook/assets/下载 (2).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/下载 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 现在您可以与您的机器人交互了！首先，选择一个线程作为此对话的关键。
 
