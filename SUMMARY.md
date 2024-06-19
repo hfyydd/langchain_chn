@@ -23,4 +23,6 @@
     * [第7部分：时间旅行](langgraph-zhong-wen-wen-dang/langgraph-jian-jie/di-7-bu-fen-shi-jian-lv-hang.md)
     * [结论](langgraph-zhong-wen-wen-dang/langgraph-jian-jie/jie-lun.md)
   * [机器人ChatBot](langgraph-zhong-wen-wen-dang/ji-qi-ren-chatbot/README.md)
+    * [代码助手](langgraph-zhong-wen-wen-dang/ji-qi-ren-chatbot/dai-ma-zhu-shou.md)
+    * [信息收集](langgraph-zhong-wen-wen-dang/ji-qi-ren-chatbot/xin-xi-shou-ji.md)
     * [构建客户支持机器人](langgraph-zhong-wen-wen-dang/ji-qi-ren-chatbot/gou-jian-ke-hu-zhi-chi-ji-qi-ren.md)

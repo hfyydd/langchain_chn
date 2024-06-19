@@ -987,7 +987,7 @@ except Exception:
     pass
 ```
 
-<figure><img src="../../.gitbook/assets/下载 (4).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/下载 (4) (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 #### 示例对话
 
