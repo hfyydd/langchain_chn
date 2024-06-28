@@ -28,3 +28,4 @@
     * [代码助手](langgraph-zhong-wen-wen-dang/ji-qi-ren-chatbot/dai-ma-zhu-shou.md)
   * [RAG](langgraph-zhong-wen-wen-dang/rag/README.md)
     * [自适应RAG](langgraph-zhong-wen-wen-dang/rag/zi-shi-ying-rag.md)
+    * [使用本地LLM的自适应RAG](langgraph-zhong-wen-wen-dang/rag/shi-yong-ben-di-llm-de-zi-shi-ying-rag.md)
