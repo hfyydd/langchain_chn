@@ -15,7 +15,7 @@
 * 网络搜索：与最近事件相关的问题
 * 自我纠正RAG：对于与我们的索引相关的问题
 
-<figure><img src="../../.gitbook/assets/下载 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/下载 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 环境
 

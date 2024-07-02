@@ -83,7 +83,7 @@ except Exception:
     pass
 ```
 
-<figure><img src="../../.gitbook/assets/下载.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/下载 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 现在让我们运行聊天机器人！
 
@@ -176,4 +176,3 @@ graph_builder.set_entry_point("chatbot")
 graph_builder.set_finish_point("chatbot")
 graph = graph_builder.compile()
 ```
-

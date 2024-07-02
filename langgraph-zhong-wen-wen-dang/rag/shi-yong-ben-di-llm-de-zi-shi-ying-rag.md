@@ -13,7 +13,7 @@
 * 网络搜索：与最近事件相关的问题
 * 网络搜索：与最近事件相关的问题
 
-<figure><img src="../../.gitbook/assets/下载 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/下载 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 环境 <a href="#environment" id="environment"></a>
 

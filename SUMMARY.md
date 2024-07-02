@@ -29,3 +29,6 @@
   * [RAG](langgraph-zhong-wen-wen-dang/rag/README.md)
     * [自适应RAG](langgraph-zhong-wen-wen-dang/rag/zi-shi-ying-rag.md)
     * [使用本地LLM的自适应RAG](langgraph-zhong-wen-wen-dang/rag/shi-yong-ben-di-llm-de-zi-shi-ying-rag.md)
+    * [RAG智能体](langgraph-zhong-wen-wen-dang/rag/rag-zhi-neng-ti.md)
+    * [校正RAG（CRAG）](langgraph-zhong-wen-wen-dang/rag/jiao-zheng-ragcrag.md)
+    * [使用本地语言模型机器（LLMs）的校正RAG（CRAG）](langgraph-zhong-wen-wen-dang/rag/shi-yong-ben-di-yu-yan-mo-xing-ji-qi-llms-de-jiao-zheng-ragcrag.md)

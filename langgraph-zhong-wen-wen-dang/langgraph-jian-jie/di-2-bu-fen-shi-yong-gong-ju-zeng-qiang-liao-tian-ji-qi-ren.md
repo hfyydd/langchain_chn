@@ -165,7 +165,7 @@ except Exception:
     pass
 ```
 
-<figure><img src="../../.gitbook/assets/下载 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/下载 (1) (2).jpeg" alt=""><figcaption></figcaption></figure>
 
 现在我们可以在训练数据之外问机器人问题。
 
@@ -277,4 +277,3 @@ graph_builder.add_edge("tools", "chatbot")
 graph_builder.set_entry_point("chatbot")
 graph = graph_builder.compile()
 ```
-
