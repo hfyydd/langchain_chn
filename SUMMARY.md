@@ -32,3 +32,6 @@
     * [RAG智能体](langgraph-zhong-wen-wen-dang/rag/rag-zhi-neng-ti.md)
     * [校正RAG（CRAG）](langgraph-zhong-wen-wen-dang/rag/jiao-zheng-ragcrag.md)
     * [使用本地语言模型机器（LLMs）的校正RAG（CRAG）](langgraph-zhong-wen-wen-dang/rag/shi-yong-ben-di-yu-yan-mo-xing-ji-qi-llms-de-jiao-zheng-ragcrag.md)
+* [AIGC](aigc/README.md)
+  * [大模型核心技术说明](aigc/da-mo-xing-he-xin-ji-shu-shuo-ming.md)
+* [Page](page.md)
