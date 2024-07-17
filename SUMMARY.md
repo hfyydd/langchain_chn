@@ -39,4 +39,6 @@
   * [大模型核心技术说明](aigc/da-mo-xing-he-xin-ji-shu-shuo-ming.md)
 * [Langchain开发框架](langchain-kai-fa-kuang-jia.md)
 * [Agent Store](agent-store.md)
-* [LangGraph How-to guides](langgraph-how-to-guides.md)
+* [LangGraph How-to guides](langgraph-how-to-guides/README.md)
+  * [如何创建子图](langgraph-how-to-guides/ru-he-chuang-jian-zi-tu.md)
+* [Page](page.md)
