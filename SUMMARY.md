@@ -41,4 +41,6 @@
 * [Agent Store](agent-store.md)
 * [LangGraph How-to guides](langgraph-how-to-guides/README.md)
   * [如何创建子图](langgraph-how-to-guides/ru-he-chuang-jian-zi-tu.md)
-* [Page](page.md)
+* [Vercel AI SDK](vercel-ai-sdk/README.md)
+  * [供应商和模型](vercel-ai-sdk/gong-ying-shang-he-mo-xing.md)
+  * [Prompts](vercel-ai-sdk/prompts.md)
